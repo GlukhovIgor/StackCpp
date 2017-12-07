@@ -1,2 +1,3 @@
 ﻿  Stack.cpp
+d:\study\программирование\visual\stack_cpp\stack\stack\stack.cpp(27): warning C4715: stack::pop: значение возвращается не при всех путях выполнения
   Stack.vcxproj -> D:\Study\Программирование\visual\Stack_cpp\Stack\Debug\Stack.exe
